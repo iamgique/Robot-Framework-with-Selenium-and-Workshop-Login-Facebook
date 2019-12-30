@@ -97,17 +97,17 @@ pip install robotframework-databaselibrary
 pip install pymysql
 ```
 
-#Install Robot Framework Selenium2library with pip
+#Install Robot Framework Seleniumlibrary with pip
 ```
 Command:
-pip install robotframework-selenium2library
+pip install robotframework-seleniumlibrary
 pip freeze
 appdirs==1.4.0
 decorator==4.0.11
 packaging==16.8
 pyparsing==2.1.10
 robotframework==3.0.2
-robotframework-selenium2library==1.8.0
+robotframework-seleniumlibrary==4.1.0
 selenium==3.0.2
 six==1.10.0
 ```
